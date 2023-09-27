@@ -6,9 +6,10 @@
 git rebase
 
 git push origin -f
+# force push to remote
 
 git reflog
-Q to xeit
+# Q to xeit
 
 git tag <tagname>
 git push origin --tags
