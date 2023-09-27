@@ -30,8 +30,8 @@ git push -d origin <tagname>
 
 ## git-filter-repo
 
-[git-filter-repo(1) Manual Page](https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html#CALLBACKS)
-[git-filter-repo](https://help.aliyun.com/document_detail/206833.html)
+- [git-filter-repo(1) Manual Page](https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html#CALLBACKS)
+- [git-filter-repo](https://help.aliyun.com/document_detail/206833.html)
 
 ```
 pip install git-filter-repo
